@@ -22,7 +22,7 @@ public class Greeter {
    */
   public final String greet(final String someone) {
     System.out.println("Hello");
-    return String.format("Hello World!, %s!", someone);
+    return String.format("Hello World, %s!", someone);
   }
 }
 !//
